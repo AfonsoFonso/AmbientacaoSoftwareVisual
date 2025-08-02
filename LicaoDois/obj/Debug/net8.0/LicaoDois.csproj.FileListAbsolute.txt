@@ -1,0 +1,14 @@
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoDois\bin\Debug\net8.0\LicaoDois.exe
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoDois\bin\Debug\net8.0\LicaoDois.deps.json
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoDois\bin\Debug\net8.0\LicaoDois.runtimeconfig.json
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoDois\bin\Debug\net8.0\LicaoDois.dll
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoDois\bin\Debug\net8.0\LicaoDois.pdb
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoDois\obj\Debug\net8.0\LicaoDois.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoDois\obj\Debug\net8.0\LicaoDois.AssemblyInfoInputs.cache
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoDois\obj\Debug\net8.0\LicaoDois.AssemblyInfo.cs
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoDois\obj\Debug\net8.0\LicaoDois.csproj.CoreCompileInputs.cache
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoDois\obj\Debug\net8.0\LicaoDois.dll
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoDois\obj\Debug\net8.0\refint\LicaoDois.dll
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoDois\obj\Debug\net8.0\LicaoDois.pdb
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoDois\obj\Debug\net8.0\LicaoDois.genruntimeconfig.cache
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoDois\obj\Debug\net8.0\ref\LicaoDois.dll
