@@ -1,0 +1,15 @@
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoTres\bin\Debug\net8.0\LicaoTres.exe
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoTres\bin\Debug\net8.0\LicaoTres.deps.json
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoTres\bin\Debug\net8.0\LicaoTres.runtimeconfig.json
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoTres\bin\Debug\net8.0\LicaoTres.dll
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoTres\bin\Debug\net8.0\LicaoTres.pdb
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoTres\obj\Debug\net8.0\LicaoTres.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoTres\obj\Debug\net8.0\LicaoTres.AssemblyInfoInputs.cache
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoTres\obj\Debug\net8.0\LicaoTres.AssemblyInfo.cs
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoTres\obj\Debug\net8.0\LicaoTres.csproj.CoreCompileInputs.cache
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoTres\obj\Debug\net8.0\LicaoTres.sourcelink.json
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoTres\obj\Debug\net8.0\LicaoTres.dll
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoTres\obj\Debug\net8.0\refint\LicaoTres.dll
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoTres\obj\Debug\net8.0\LicaoTres.pdb
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoTres\obj\Debug\net8.0\LicaoTres.genruntimeconfig.cache
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoTres\obj\Debug\net8.0\ref\LicaoTres.dll
