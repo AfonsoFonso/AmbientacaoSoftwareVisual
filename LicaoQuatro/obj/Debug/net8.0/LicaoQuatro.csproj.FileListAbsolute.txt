@@ -1,0 +1,15 @@
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoQuatro\bin\Debug\net8.0\LicaoQuatro.exe
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoQuatro\bin\Debug\net8.0\LicaoQuatro.deps.json
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoQuatro\bin\Debug\net8.0\LicaoQuatro.runtimeconfig.json
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoQuatro\bin\Debug\net8.0\LicaoQuatro.dll
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoQuatro\bin\Debug\net8.0\LicaoQuatro.pdb
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoQuatro\obj\Debug\net8.0\LicaoQuatro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoQuatro\obj\Debug\net8.0\LicaoQuatro.AssemblyInfoInputs.cache
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoQuatro\obj\Debug\net8.0\LicaoQuatro.AssemblyInfo.cs
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoQuatro\obj\Debug\net8.0\LicaoQuatro.csproj.CoreCompileInputs.cache
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoQuatro\obj\Debug\net8.0\LicaoQuatro.sourcelink.json
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoQuatro\obj\Debug\net8.0\LicaoQuatro.dll
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoQuatro\obj\Debug\net8.0\refint\LicaoQuatro.dll
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoQuatro\obj\Debug\net8.0\LicaoQuatro.pdb
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoQuatro\obj\Debug\net8.0\LicaoQuatro.genruntimeconfig.cache
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoQuatro\obj\Debug\net8.0\ref\LicaoQuatro.dll
