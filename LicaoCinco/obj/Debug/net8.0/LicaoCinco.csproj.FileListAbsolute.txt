@@ -1,0 +1,15 @@
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoCinco\bin\Debug\net8.0\LicaoCinco.exe
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoCinco\bin\Debug\net8.0\LicaoCinco.deps.json
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoCinco\bin\Debug\net8.0\LicaoCinco.runtimeconfig.json
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoCinco\bin\Debug\net8.0\LicaoCinco.dll
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoCinco\bin\Debug\net8.0\LicaoCinco.pdb
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoCinco\obj\Debug\net8.0\LicaoCinco.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoCinco\obj\Debug\net8.0\LicaoCinco.AssemblyInfoInputs.cache
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoCinco\obj\Debug\net8.0\LicaoCinco.AssemblyInfo.cs
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoCinco\obj\Debug\net8.0\LicaoCinco.csproj.CoreCompileInputs.cache
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoCinco\obj\Debug\net8.0\LicaoCinco.sourcelink.json
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoCinco\obj\Debug\net8.0\LicaoCinco.dll
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoCinco\obj\Debug\net8.0\refint\LicaoCinco.dll
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoCinco\obj\Debug\net8.0\LicaoCinco.pdb
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoCinco\obj\Debug\net8.0\LicaoCinco.genruntimeconfig.cache
+D:\Faculdade\VisualSoftDev\Ambientacao\LicaoCinco\obj\Debug\net8.0\ref\LicaoCinco.dll
